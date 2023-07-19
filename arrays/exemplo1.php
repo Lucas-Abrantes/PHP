@@ -15,6 +15,6 @@ $nome[1][1] = 'joao';
 $nome[1][2] = 'ivan';
 
 // end --> traz o último elemento daquela linha
-echo end($nome'[1]);
+echo end($nome[1]);
 
 ?>
